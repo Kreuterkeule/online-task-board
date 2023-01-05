@@ -4,7 +4,7 @@
         <router-link :to="{ name: '/', params: {} }">
           <span class="gg-screen"></span>
         </router-link>
-        <router-link :to="{ name: '/Dashboard', params: {} }">
+        <router-link :to="{ name: '/Todo', params: {} }">
           <span class="gg-file-document"></span>
         </router-link>
         <router-link :to="{ name: '/Dashboard', params: {} }">
