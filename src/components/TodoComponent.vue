@@ -29,7 +29,7 @@ export default {
 
 <style lang="scss" scoped>
 .TodoContainer {
-  background-color: red;
+  background-color: rgba(0,0,0,0);
   display: block;
 }
 </style>
