@@ -7,10 +7,10 @@
         <router-link :to="{ name: '/Todo', params: {} }">
           <span class="gg-file-document"></span>
         </router-link>
-        <router-link :to="{ name: '/Dashboard', params: {} }">
+        <router-link :to="{ name: '/addTodo', params: {} }">
           <span class="gg-add-r"></span>
         </router-link>
-        <router-link id="last-menu-link" :to="{ name: '/Dashboard', params: {} }">
+        <router-link id="last-menu-link" :to="{ name: '/addUser', params: {} }">
           <span class="gg-profile"></span>
         </router-link>
       </ul>
